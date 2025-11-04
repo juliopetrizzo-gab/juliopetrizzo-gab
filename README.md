@@ -75,4 +75,4 @@ landing-page/
 
 ⭐ Deixe uma estrela se este projeto te ajudou!
 
-**Desenvolvido com 💜 por [Seu Nome]**
+**Desenvolvido por Julio Petrizzo**

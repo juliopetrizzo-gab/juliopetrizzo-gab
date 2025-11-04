@@ -2,7 +2,6 @@
 
 Landing page moderna e responsiva desenvolvida para captação de leads através de newsletter.
 
-![Preview da Landing Page](https://via.placeholder.com/800x400/1a1f3a/ffffff?text=Landing+Page+Preview)
 
 ## 📋 Sobre o Projeto
 
@@ -18,19 +17,11 @@ O design utiliza uma paleta de cores em tons de azul escuro (#1a1f3a) combinado 
 
 ## ✨ Funcionalidades
 
-- ✅ Design responsivo (mobile, tablet e desktop)
 - ✅ Formulário de captura de leads
 - ✅ Navegação suave entre seções
 - ✅ Interface moderna e minimalista
 - ✅ Ilustrações vetoriais integradas
 - ✅ Call-to-action destacado
-
-## 📱 Responsividade
-
-O projeto utiliza media queries para garantir uma experiência otimizada em:
-- 📱 Smartphones (até 768px)
-- 💻 Tablets (768px - 1024px)
-- 🖥️ Desktops (acima de 1024px)
 
 ## 🎯 Como Usar
 
@@ -65,33 +56,20 @@ landing-page/
 - **Destaque:** `#5865f2` (Azul)
 - **Elementos:** Gradientes e transparências
 
-## 📸 Screenshots
-
-### Desktop
-![Desktop View](https://via.placeholder.com/800x400/1a1f3a/ffffff?text=Desktop+View)
-
-### Mobile
-![Mobile View](https://via.placeholder.com/400x800/1a1f3a/ffffff?text=Mobile+View)
-
 ## 🔮 Melhorias Futuras
 
 - [ ] Integração com API de e-mail marketing
 - [ ] Animações CSS avançadas
-- [ ] Validação de formulário com JavaScript
 - [ ] Dark/Light mode toggle
 - [ ] Seção de depoimentos
 - [ ] Integração com backend
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👤 Autor
 
-**Seu Nome**
+**Julio Petrizzo**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+- GitHub: https://github.com/juliopetrizzo-gab
+- LinkedIn: https://www.linkedin.com/in/julio-nascimento-791a5837a/
 
 ---
 

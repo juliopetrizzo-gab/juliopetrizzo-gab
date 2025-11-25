@@ -3,7 +3,7 @@
 - Atualmente, pretendo me aprofundar no Front-end
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliopetrizzo-gab&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliopetrizzo-gab&layout=compact&theme=tokyonight)
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliopetrizzo-gab/juliopetrizzo-gab/output/github-contribution-grid-snake-dark.svg">

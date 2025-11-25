@@ -4,7 +4,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliopetrizzo-gab&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=juliopetrizzo-gab&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-alpha.vercel.app/api/top-langs/?username=juliopetrizzo-gab&layout=compact&tc=fff&ic=fff)
+
 
 
 

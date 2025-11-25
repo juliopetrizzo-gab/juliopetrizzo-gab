@@ -4,9 +4,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliopetrizzo-gab&layout=compact&theme=tokyonight)
-![Top Langs](https://github-stats-alpha.vercel.app/api/top-langs/?username=juliopetrizzo-gab&layout=compact&tc=fff&ic=fff)
-
-
 
 
 <picture align="center">

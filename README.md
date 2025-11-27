@@ -2,7 +2,7 @@
 
 - Atualmente, pretendo me aprofundar no Front-end
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliopetrizzo-gab&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliopetrizzo-gab&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliopetrizzo-gab&layout=compact&theme=tokyonight)
 
 

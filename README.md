@@ -29,6 +29,9 @@
   <img align="center" alt="Julio-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Julio-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Julio-WebStorm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg">
+  <p align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRibG8zNXF4dGFjbm51ZmNqNTkydWR4c3I3Z2tmNzI1dXdmN213aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" width="300px" />
+</p>
 </div>
 
 

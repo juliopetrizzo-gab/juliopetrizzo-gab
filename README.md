@@ -37,16 +37,19 @@
 
 
 
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRibG8zNXF4dGFjbm51ZmNqNTkydWR4c3I3Z2tmNzI1dXdmN213aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" width="300px" />
+</p>
+
+
+
+
 <div>
 <a href="https://instagram.com/nascimentoxz1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/XAznbrqe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/julio-nascimento-791a5837a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRibG8zNXF4dGFjbm51ZmNqNTkydWR4c3I3Z2tmNzI1dXdmN213aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" width="300px" />
-</p>
 
 
 
